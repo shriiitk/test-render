@@ -1,5 +1,5 @@
 # Ignore virtual environment directories
-venv/
+render/
 *.pyc
 *.pyo
 __pycache__/
