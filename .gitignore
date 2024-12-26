@@ -1,0 +1,10 @@
+# Ignore virtual environment directories
+venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore system-specific files
+.DS_Store   # macOS
+Thumbs.db    # Windows
+
